@@ -1,2 +1,2 @@
 # Annotate
-Repository
+A repository to test agentic AI. 
